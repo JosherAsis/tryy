@@ -1,0 +1,51 @@
+body {
+  background-color: #67f3e7; /* Light pink background */
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 50%;
+  margin: 20px auto;
+  padding: 20px;
+  background: transparent;
+  border-radius: 10px;
+  box-shadow: none;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+input {
+  padding: 8px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  margin-left: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.student-list {
+  margin-top: 20px;
+}
+
+img {
+  width: 200px; /* Adjust the size of the image */
+  margin-top: 10px;
+}
